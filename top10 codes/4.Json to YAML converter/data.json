@@ -1,0 +1,23 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "Anystate",
+      "zip": "12345"
+    },
+    "phone_numbers": [
+      {
+        "type": "home",
+        "number": "123-456-7890"
+      },
+      {
+        "type": "mobile",
+        "number": "987-654-3210"
+      }
+    ],
+    "is_active": true
+  }
+  

@@ -1,0 +1,10 @@
+INFO: Application started at 2024-12-08 09:00:00
+DEBUG: Initializing components
+INFO: User JohnDoe logged in at 2024-12-08 09:05:12
+ERROR: Database connection failed at 2024-12-08 09:06:30
+INFO: User JohnDoe requested data at 2024-12-08 09:07:45
+ERROR: Data retrieval failed for User JohnDoe at 2024-12-08 09:08:00
+DEBUG: Query execution completed
+INFO: Application running normally at 2024-12-08 09:10:00
+ERROR: Unexpected exception during request processing at 2024-12-08 09:12:05
+INFO: Application shut down at 2024-12-08 09:15:00

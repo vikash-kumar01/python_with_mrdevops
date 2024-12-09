@@ -1,0 +1,14 @@
+address:
+  city: Anytown
+  state: Anystate
+  street: 123 Main St
+  zip: '12345'
+age: 30
+email: johndoe@example.com
+is_active: true
+name: John Doe
+phone_numbers:
+- number: 123-456-7890
+  type: home
+- number: 987-654-3210
+  type: mobile
